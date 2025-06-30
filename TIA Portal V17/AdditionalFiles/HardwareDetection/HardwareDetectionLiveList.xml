@@ -1,0 +1,8 @@
+<OnlineDevices>
+  <OnlineDevice VendorID="2A" DeviceID="314" TypeID="2A0314" DeviceType="ET200AL">
+    <DeviceRole>Device</DeviceRole>
+    <NameOfStation>sensors</NameOfStation>
+    <MacAddress>28-63-36-E9-39-F7</MacAddress>
+    <IPAddress>192.168.200.101</IPAddress>
+  </OnlineDevice>
+</OnlineDevices>
